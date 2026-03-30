@@ -1,0 +1,12 @@
+tf_env/
+venv/
+__pychache__/
+
+*.pkl
+*.hs
+models/
+
+database/
+
+upload_images/
+uploaded_reports/
